@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentBottom="false"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="#b2b2be"
+    tools:context=".AdminLogIn">
+
+    <EditText
+        android:id="@+id/adminID"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/black"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/adminPASS"
+        android:layout_width="350dp"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/black"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/adminLOG"
+        android:layout_width="194dp"
+        android:layout_height="55dp"
+        android:textColor="@color/black"
+        android:backgroundTint="#dbdbe1"
+        android:text="Log In" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="152dp" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="147dp">>
+        <Button
+            android:id="@+id/backM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#dbdbe1"
+            android:text="Back"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.95
+"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="1
+" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>
