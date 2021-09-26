@@ -13,7 +13,7 @@ Online Resources used:
 a) Reference:
 •	https://www.tutorialspoint.com/android/index.htm
 •	Youtube videos:
-o	 https://www.youtube.com/playlist?list=PL5jb9EteFAOCO_uRl2--aQ-0d8r01QjS-.
+o	 https://www.youtube.com/playlist?list=PL5jb9EteFAOCO_uRl2--aQ-0d8r01QjS-
 o	https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl
 o	https://www.youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
 o	https://www.youtube.com/watch?v=sZ8D1-hNeWo
